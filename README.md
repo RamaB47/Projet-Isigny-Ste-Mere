@@ -10,7 +10,7 @@ Ce projet indépendant a pour objectif d'analyser l'impact du dérèglement clim
 
 ### 🚀 Statut du Projet : En cours
 * **Étape 1 : Data Preparation & Nettoyage (Validée ✅)**
-* **Étape 2 : Analyse Exploratoire des Données / EDA (Validée ✅)**
+* **Étape 2 : Analyse Exploratoire des Données / EDA (En cours 🛠️)**
 * **Étape 3 : Modélisation prédictive avec Prophet (En cours 🛠️)**
 
 ---
