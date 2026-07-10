@@ -1,4 +1,5 @@
 📊 Modélisation Prédictive & Impact Climatique : Supply Chain Isigny Sainte-Mère
+
 📌 Présentation du Projet
 Ce projet a pour objectif d'analyser, de modéliser et de prévoir les volumes de collecte et de production d'Isigny Sainte-Mère face aux enjeux du dérèglement climatique. En combinant des techniques avancées de Data Science et une approche RSE, ce travail met en lumière l'impact direct des variables environnementales (stress thermique, instabilité climatique post-2022) sur l'amont agricole afin d'apporter des solutions de pilotage stratégiques pour la Supply Chain.
 
