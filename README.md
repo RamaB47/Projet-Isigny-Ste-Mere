@@ -45,4 +45,4 @@ This study relies exclusively on publicly available data and reports:
 * ADEME emission factors and methodology guides for carbon modeling.
 * **Email:** rama.badji47@yahoo.com
 * **Executive Summury:** https://drive.proton.me/urls/50V9FQPQ0G#EIZJRBF3jCRd ( in French and in English)
-* 
+  
