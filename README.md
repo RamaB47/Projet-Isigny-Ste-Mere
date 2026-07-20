@@ -43,4 +43,6 @@ This study relies exclusively on publicly available data and reports:
 * 2025 Extra-Financial Performance Declaration (DPEF) of Isigny Sainte-Mère[cite: 1].
 * Historical dairy collection and seasonality data[cite: 1].
 * ADEME emission factors and methodology guides for carbon modeling.
-* **Email:** rama.badji47@yahoo.com 
+* **Email:** rama.badji47@yahoo.com
+* **Executive Summury:** https://drive.proton.me/urls/50V9FQPQ0G#EIZJRBF3jCRd ( in French and in English)
+* 
